@@ -22,7 +22,7 @@ public class EmailEventAdapterConstants {
     private EmailEventAdapterConstants() {
     }
 
-    public static final String ADAPTER_TYPE_EMAIL = "email123";
+    public static final String ADAPTER_TYPE_EMAIL = "custom-email";
     public static final String ADAPTER_MESSAGE_EMAIL_ADDRESS = "email.address";
     public static final String ADAPTER_MESSAGE_EMAIL_ADDRESS_HINT = "emailAddress.hint";
     public static final String ADAPTER_MESSAGE_EMAIL_SUBJECT = "email.subject";
